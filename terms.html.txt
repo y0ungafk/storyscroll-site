@@ -1,0 +1,25 @@
+# StoryScroll — Terms of Service
+
+Last updated: September 30, 2026
+
+StoryScroll is a personal project that generates fictional Reddit-style story videos and publishes content to social media platforms through their official APIs.
+
+## Use of the service
+
+StoryScroll is provided for personal use. The service may generate fictional stories, narration, captions, and videos automatically.
+
+## Social media authorization
+
+When you connect a social media account, StoryScroll only uses the permissions that you authorize. You may revoke authorization through the relevant platform at any time.
+
+## Content
+
+StoryScroll-generated stories are fictional unless explicitly stated otherwise. Users are responsible for ensuring that any background footage, images, music, or other media they provide or use with the service is properly licensed or otherwise permitted for their intended use.
+
+## Availability
+
+StoryScroll is provided on an "as is" basis. The service may be changed, interrupted, or discontinued at any time.
+
+## Contact
+
+For questions about StoryScroll, contact the project owner through the associated social media or developer account.
